@@ -1,0 +1,40 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  font-size: 16px;
+  background-color: #DFCCC2;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1342px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.nav {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  align-items: center;
+}
+.nav__link {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+.nav__btn {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+.nav .line {
+  border-bottom: 1px solid #F95454;
+}
+.nav__logo {
+  font-size: 3.2rem;
+  color: #FFFFFF;
+}/*# sourceMappingURL=style.css.map */
